@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/deleteOrder": {
+      "name": "/deleteOrder",
+      "lambdaFunction": "orderLambda",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
